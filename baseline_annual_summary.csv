@@ -1,0 +1,6 @@
+simulation_year,scenario_label,inflow_mcm,evaporation_mcm,potential_evaporation_mcm,municipal_demand_mcm,municipal_release_mcm,irrigation_demand_mcm,irrigation_release_mcm,environmental_demand_mcm,environmental_release_mcm,spill_mcm,municipal_deficit_mcm,irrigation_deficit_mcm,environmental_deficit_mcm,start_storage_mcm,end_storage_mcm,municipal_satisfaction_pct,irrigation_satisfaction_pct,environmental_satisfaction_pct
+1,normal,1610.2,227.0,227.0,235.0,235.0,1010.0,1010.0,255.0,255.0,0.0,0.0,0.0,0.0,1200.0,1083.2,100.0,100.0,100.0
+2,wet,2637.76,227.0,227.0,235.0,235.0,1010.0,1010.0,255.0,255.0,0.0,0.0,0.0,0.0,1083.2,1993.96,100.0,100.0,100.0
+3,dry,693.07,227.0,227.0,235.0,235.0,1010.0,1010.0,255.0,255.0,0.0,0.0,0.0,0.0,1993.96,960.03,100.0,100.0,100.0
+4,normal-low,1464.09,227.0,227.0,235.0,235.0,1010.0,1010.0,255.0,255.0,0.0,0.0,0.0,0.0,960.03,697.12,100.0,100.0,100.0
+5,severe-dry,379.2,191.25,227.0,235.0,167.0,1010.0,467.82,255.0,100.25,0.0,68.0,542.18,154.75,697.12,150.0,71.06,46.32,39.31
